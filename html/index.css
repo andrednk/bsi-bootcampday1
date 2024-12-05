@@ -1,0 +1,52 @@
+h1{
+    color: brown;
+}
+
+.form-container{
+    background-color: white;
+}
+
+.form{
+    background-color: lightblue;
+    padding: 30px;
+}
+
+
+body{
+    background-color: aliceblue;
+}
+
+#cardparent{
+    display: flex;
+}
+
+.card{
+    background-color: rgb(232, 218, 218);
+    color: black;
+    text-align: center;
+    padding: 20px 50px 10px 5px;
+    border-radius: 20px;
+}
+
+.title{
+    color: blue;
+}
+
+#idTitle{
+    color: blueviolet;
+}
+
+
+#cardparent2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card2{
+    background-color: #c5faf9;
+    text-align: center;
+    padding: 20px;
+    margin-top: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
